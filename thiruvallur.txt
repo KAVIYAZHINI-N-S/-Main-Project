@@ -1,0 +1,1138 @@
+elif district == 'Tiruvallur':
+    if city == 'Gummidipoondi':
+        if blood_type == 'A+':
+            donors = [
+                {'name': 'jabarsathik', 'contact': '8610197684'},
+                {'name': 'Parkavan AVM', 'contact': '9345412131'},
+                {'name': 'vivek', 'contact': '7200292808'},
+                {'name': 'Sathyanathan', 'contact': '7010302086'},
+                {'name': 'Sudhakar', 'contact': '9500393607'},
+                {'name': 'subra mani', 'contact': '7448858435'},
+                {'name': 'DEVIPRIYA RUDHRARAJU', 'contact': '9500541075'},
+                {'name': 'Dineshkumar', 'contact': '9629407948'},
+                {'name': 'JAGADEESH GV', 'contact': '8148559350'},
+                {'name': 'Vamsikrishna D', 'contact': '8248017061'},
+                {'name': 'Chitikala Soma Sekhar', 'contact': '9884385222'},
+                {'name': 'CHITTI BABU . R', 'contact': '9087257242'},
+                {'name': 'sanchit', 'contact': '8608595329'},
+                {'name': 'prabhu', 'contact': '7904345098'},
+                {'name': 'narenthar', 'contact': '9894320600'},
+                {'name': 'M. Sathish Kumar', 'contact': '9894998045'},
+                {'name': 'KARTHICK', 'contact': '7904422584'},
+            ]
+            
+        elif blood_type == 'A-':
+            donors = [
+                {"No records found"},
+            ]
+            
+        elif blood_type == 'O+':
+            donors = [
+                {'name': 'AKSHAI RAJ', 'contact': '8098685384'},
+                {'name': 'Abishek AVR', 'contact': '7538892035'},
+                {'name': 'Paul Ebenezer.J', 'contact': '8667703470'},
+                {'name': 'Karthick kumar', 'contact': '9787444211'},
+                {'name': 'kirubakaran', 'contact': '9597003469'},
+                {'name': 'Udhayakumar', 'contact': '7639376662'},
+                {'name': 'KARTHICK R', 'contact': '9600900539'},
+                {'name': 'Sheik Abdul', 'contact': '9894326066'},
+                {'name': 'Neelesh Kumar Mutha', 'contact': '9524946300'},
+                {'name': 'JEGAN A.K', 'contact': '8870895300'},
+                {'name': 'Sathya sekar', 'contact': '9500214177'},
+                {'name': 'Narendra', 'contact': '8675061294'},
+                {'name': 'Anbalagan', 'contact': '9944013100'},
+                {'name': 'Vijay Kumar', 'contact': '8098595939'},
+                {'name': 'vasanth Antony', 'contact': '9791841539'},
+                {'name': 'Tamizh selvan.k', 'contact': '8870730922'},
+                {'name': 'Hemapriya', 'contact': '8870172563'},
+                {'name': 'Gopinath B', 'contact': '9789447473'},
+                {'name': 'purushothaman', 'contact': '6382331949'},
+                {'name': 'vinoth Govindasamy', 'contact': '9381486578'},
+                {'name': 'Vinoth Kumar .v', 'contact': '9629275480'},
+                {'name': 'Suveak', 'contact': '7548883182'},
+                {'name': 'Gopal', 'contact': '9003606367'},
+                {'name': 'GUNASEKAR', 'contact': '9962548626'},
+                {'name': 'Sudharsan', 'contact': '7702600119'},
+                {'name': 'Darwin', 'contact': '9840353590'},
+                {'name': 'Jayasuriya R', 'contact': '9944616947'},
+                {'name': 'balamurugan m', 'contact': '9790292229'},
+                {'name': 'Thangasuresh', 'contact': '9524032323'},
+                {'name': 'BALAJI', 'contact': '8428241604'},
+                        ]
+                        
+        elif blood_type=='O-':
+            donors=[
+                {'name': 'karthick', 'contact': '8124333700'},
+                {'name': 'BOOPATHI SURESH', 'contact': '6382296547'},
+                {'name': 'Naveen kumar', 'contact': '9894909921'},
+                {'name': 'Nagesh.V', 'contact': '9842807151'},
+                {'name': 'BALAJI', 'contact': '8838187980'},
+                {'name': 'SaravananPalanivelu', 'contact': '9894304715'},
+                {'name': 'Manikandan k', 'contact': '7502020540'},
+                {'name': 'Sathish Kumar', 'contact': '8778460687'},
+                {'name': 'MURUGAN R', 'contact': '9994542216'},
+                {'name': 'Prabakaran H', 'contact': '8344118750'},
+                {'name': 'Silambarasan', 'contact': '7010391979'},
+                {'name': 'vignesh', 'contact': '9751655178'},
+                {'name': 'viji', 'contact': '9655446216'},
+                {'name': 'S.naveen', 'contact': '9094984560'},
+                {'name': 'G.LOGANATHAN', 'contact': '8870626102'},
+                {'name': 'Prasad Nandhan', 'contact': '9677585678'},
+                {'name': 'devaraj', 'contact': '9894199699'},
+                {'name': 'Nandha kumar', 'contact': '9789151466'},
+                {'name': 'Saravanan Palanivelu', 'contact': '9710417545'},
+                {'name': 'Kalaiyarasan', 'contact': '9629188324'},
+                {'name': 'KARTHICK', 'contact': '8124333700'},
+                {'name': 'gowtham', 'contact': '9445625667'},
+                {'name': 'spurgeonsamraj', 'contact': '8190068438'},
+                {'name': 'Gandhi R', 'contact': '7299926460'},
+            ]
+            
+        elif blood_type=='B+':
+            donors = [
+                {'name': 'Vignesh', 'contact': '8297735065'},
+                {'name': 'Rajenthiran.Y', 'contact': '8675853149'},
+                {'name': 'M.velan', 'contact': '9944359026'},
+                {'name': 'N.SURESH', 'contact': '9941034551'},
+                {'name': 'T.M.SHANKAR', 'contact': '9791553642'},
+                {'name': 'Bhushanam M', 'contact': '9962922888'},
+                {'name': 'saran kumar', 'contact': '9566094742'},
+                {'name': 'Saranraj K', 'contact': '8754224049'},
+                {'name': 'k.stalinkumar', 'contact': '9940948583'},
+                {'name': 'Vasanth kumar p', 'contact': '8148070227'},
+                {'name': 'suman Kumar G', 'contact': '7200376796'},
+                {'name': 'pravallika P', 'contact': '9176321312'},
+                {'name': 'Shanmugam E G', 'contact': '8754271211'},
+                {'name': 'Vasantha Kumar M', 'contact': '7845444322'},
+                {'name': 'Ganesh m', 'contact': '9840388994'},
+                {'name': 'Arulmurugan R', 'contact': '8940592516'},
+                {'name': 'senthil', 'contact': '7871902163'},
+                {'name': 'vijayakanth', 'contact': '9941592864'},
+                {'name': 'Guna sekar', 'contact': '8778010905'},
+                {'name': 'N. Chenthil Kumar', 'contact': '8959590669'},
+                {'name': 'Sathishkumar R', 'contact': '9952420138'},
+                {'name': 'Sathishkumar MD', 'contact': '7845282895'},
+                {'name': 'Pramoda A J', 'contact': '7676016119'},
+                {'name': 'Venkateswarlu G E', 'contact': '9840700881'},
+                {'name': 'DEEPAN', 'contact': '9444977142'},
+                {'name': 'Jayakumar', 'contact': '9894563174'},
+                {'name': 'Ashok kumar', 'contact': '9884997007'},
+                {'name': 'yugendhera', 'contact': '9176411929'},
+                {'name': 'Ashokkumar Balasubramaniyan', 'contact': '9965505320'},
+                {'name': 'RAJESH.K', 'contact': '9884023253'},
+            ]
+
+        elif blood_type=='B-':
+            donors=[
+                {'name': 'karthik kannan', 'contact': '9123501725'},
+                {'name': 'KUMAR P', 'contact': '9791118134'},
+                {'name': 'sl suresh', 'contact': '8883734466'},
+                {'name': 'Dhivakar R', 'contact': '9597835274'},
+                {'name': 'Ashok Raj', 'contact': '9789894882'},
+                {'name': 'SK Kumar', 'contact': '9840091548'},
+                {'name': 'mullai ganesan', 'contact': '9176903116'},
+                {'name': 'N VIJAYA KUMAR', 'contact': '9791788620'},
+                {'name': 'dïväkär', 'contact': '8074191269'},
+                {'name': 'U Nishanthi', 'contact': '9677753787'},
+                {'name': 'Stanley Prince Asir', 'contact': '9597886999'},
+            ]
+
+        elif blood_type=='AB+':
+            donors=[
+                {'name': 'Magesh B', 'contact': '9566542752'},
+                {'name': 'nizam', 'contact': '9677485855'},
+                {'name': 'Goutham vijayan', 'contact': '8072949147'},
+                {'name': 'RAJESH', 'contact': '9578012157'},
+                {'name': 'Jeri Akash', 'contact': '9994658145'},
+            ]
+
+        elif blood_type=='AB-':
+            donors=[
+                {"No records found"},
+            ]
+        else:
+            donors = []  
+        return donors
+    if city == 'Pakkipet':
+        if blood_type == 'A+':
+            donors = [
+                {'name': 'NARENDRAKUMAR', 'contact': '9445643153'},
+            ]
+        elif blood_type == 'A-':
+            donors = [
+                {"No records found"},
+            ]
+        elif blood_type == 'O+':
+            donors = [
+                {'name': 'Dr DHANANJAYAN', 'contact': '9500673217'},
+                {'name': 'Karthikeyan ajji', 'contact': '8838536217'},
+
+            ]
+        elif blood_type=='O-':
+            donors=[
+                {"No records found"},
+            ]
+        elif blood_type=='B+':
+            donors=[
+                {'name': 'Srikanth A', 'contact': '8148570556'},
+                {'name': 'Sathish Kumar.N', 'contact': '6380911785'},
+                {'name': 'Raja Nagarajan', 'contact': '9941220097'},
+                {'name': 'kesavan', 'contact': '7094618219'},
+            ]
+        elif blood_type=='B-':
+            donors=[
+                  {"No records found"},
+            ]
+        elif blood_type=='AB+':
+            donors=[
+                {"No records found"},
+            ]     
+        elif blood_type=='AB-':
+            donors=[
+                {"No records found"},
+            ]
+        else:
+            donors = [] 
+        return donors
+    if city == 'Ponneri':
+            if blood_type == 'A+':
+                donors = [
+                    {'name': 'karthick', 'contact': '7305006060'},
+                    {'name': 'Gopikrishnan c', 'contact': '8056419146'},
+                    {'name': 'Naresh', 'contact': '9025711900'},
+                    {'name': 'gowtham', 'contact': '8508624574'},
+                    {'name': 'Arun prasath', 'contact': '7358411524'},
+                    {'name': 'Prakash R', 'contact': '8015381831'},
+                    {'name': 'Jagan', 'contact': '7395983046'},
+                    {'name': 'Jagadeesan. R', 'contact': '9677225607'},
+                    {'name': 'N.S.Deepak', 'contact': '9884388445'},
+                    {'name': 'jagadeeswaran', 'contact': '9345707256'},
+                    {'name': 'Mohan Raj.P', 'contact': '9677149260'},
+                    {'name': 'Vimal S', 'contact': '9840611669'},
+                    {'name': 'Mukilan viswanathan', 'contact': '8056286462'},
+                    {'name': 'Gugan G', 'contact': '9087181157'},
+                    {'name': 'Narendhiran', 'contact': '8270298406'},
+                    {'name': 'Chenthil Kumar Natarajan', 'contact': '8959590669'},
+                    {'name': 'Ruthra Kumar', 'contact': '8667561035'},
+                    {'name': 'SK VELU', 'contact': '8525019757'},
+                    {'name': 'R.kamalakannan', 'contact': '9080427535'},
+                    {'name': 'Murugan', 'contact': '9944326237'},
+                    {'name': 'Rajesh', 'contact': '9994581313'},
+                    {'name': 'S.Nagarajan', 'contact': '9444886805'},
+                    {'name': 'G Govardhanan', 'contact': '9498094642'},
+                    {'name': 'MOHAMMED ANVER RIYAS.J', 'contact': '9789881607'},
+                    {'name': 'manikandan', 'contact': '9659065854'},
+                    {'name': 'Surya sundar', 'contact': '9994822214'},
+                    {'name': 'Naresh kumar.H', 'contact': '9840100091'},
+                    {'name': 'JAGADEESHWARAN', 'contact': '8778588199'},
+                    {'name': 'pradeep k', 'contact': '7904683783'},
+                    {'name': 'Mohammed Dastagir', 'contact': '8939446055'},
+                ]
+            elif blood_type == 'A-':
+                donors = [
+                    {'name': 'sarankumar', 'contact': '9943562807'},
+                    {'name': 'p.dhanasekar', 'contact': '9095665455'},
+                    {'name': 'RUKESH', 'contact': '8883128886'},
+                    {'name': 'R Karthikeyan', 'contact': '8838249918'},
+                ]
+            elif blood_type == 'B+':
+                donors = [
+                    {'name': 'SANTHOSH', 'contact': '7339561803'},
+                    {'name': 'Yuvaraj', 'contact': '8903310758'},
+                    {'name': 'SHANMUGANATHAN', 'contact': '9360073963'},
+                    {'name': 'Balaji', 'contact': '8681802045'},
+                    {'name': 'S.Shankar', 'contact': '9952231123'},
+                    {'name': 'ajaykumar p', 'contact': '9600468855'},
+                    {'name': 'Udayasankar V', 'contact': '9840085650'},
+                    {'name': 'manikandan R', 'contact': '9087221214'},
+                    {'name': 'yuvanesh.k', 'contact': '9941204500'},
+                    {'name': 'Praveen kumar', 'contact': '7708099419'},
+                    {'name': 'chandrasekar', 'contact': '9080070114'},
+                    {'name': 'Santhosh', 'contact': '7339561803'},
+                    {'name': 'Jagadeesh', 'contact': '9845575401'},
+                    {'name': 'K. Kalai mani', 'contact': '9566176426'},
+                    {'name': 'Suriya', 'contact': '6382879122'},
+                    {'name': 'Kumari K', 'contact': '8637622376'},
+                    {'name': 'HariPrasadBommaraju', 'contact': '9790963707'},
+                    {'name': 'vigneshwaran', 'contact': '8939331929'},
+                    {'name': 'Naveen Kumar', 'contact': '8610572239'},
+                    {'name': 'PONBASKAR', 'contact': '9840292010'},
+                    {'name': 'Azhagiri vijaykumar', 'contact': '9940622567'},
+                    {'name': 'Vinoth', 'contact': '9500356927'},
+                    {'name': 'Rajeshkumar', 'contact': '9840299317'},
+                    {'name': 'Srinivasan. G', 'contact': '9940953081'},
+                    {'name': 'Sathish Kumar. M', 'contact': '9445381091'},
+                    {'name': 'DHILEEPARUN', 'contact': '9790453537'},
+                    {'name': 'Mohamed Rizwan N', 'contact': '8072653706'},
+                    {'name': 'deepan', 'contact': '8072479270'},
+                    {'name': 'mano', 'contact': '9790828332'},
+                    {'name': 'Prakash Jayachandran', 'contact': '9944188143'},
+                ]
+            elif blood_type == 'B-':
+                donors = [
+                    {'name': 'Prakash', 'contact': '9600100612'},
+                    {'name': 'Manigandan', 'contact': '9566569202'},
+                    {'name': 'Mahe', 'contact': '9524329150'},
+                    {'name': 'John Dinesh', 'contact': '8189864144'},
+                    {'name': 'Akash', 'contact': '8056972900'},
+                    {'name': 'YUVARAJ', 'contact': '9003215139'},
+                    {'name': 'Mullaiganesan', 'contact': '9176903116'},
+                    {'name': 'krishnakumar', 'contact': '9884310653'},
+                ]
+            elif blood_type == 'O+':
+                donors = [
+                    {'name': 'Sathish Kumar Peter', 'contact': '9962913637'},
+                    {'name': 'MURALI', 'contact': '9094048827'},
+                    {'name': 'tamilvendhankaran', 'contact': '9791766889'},
+                    {'name': 'Rajkumar', 'contact': '6381105893'},
+                    {'name': 'Venkataraman', 'contact': '9840961343'},
+                    {'name': 'selva', 'contact': '7448794470'},
+                    {'name': 'SundaravadiluR', 'contact': '9600287480'},
+                    {'name': 'Rajesh', 'contact': '9524626294'},
+                    {'name': 'sasikumar.M', 'contact': '9840990994'},
+                    {'name': 'S.Sankaralingam', 'contact': '9444851895'},
+                    {'name': 'BALAMURUGAN', 'contact': '9940511415'},
+                    {'name': 'Nikeshkumar R', 'contact': '9787754941'},
+                    {'name': 'Dhivagar Murali', 'contact': '9514989834'},
+                    {'name': 'A.Tamilvanan', 'contact': '6385825898'},
+                    {'name': 'Kumaraguru', 'contact': '9841372503'},
+                    {'name': 'Christina T. Dorthy', 'contact': '9500099757'},
+                    {'name': 'Rajesh V', 'contact': '9962813878'},
+                    {'name': 'Vairamuthu', 'contact': '9884398648'},
+                    {'name': 'logachandran', 'contact': '8939441333'},
+                    {'name': 'Rushendran', 'contact': '9629458330'},
+                    {'name': 'KISHORE.P', 'contact': '9585489652'},
+                    {'name': 'Dhiwakar', 'contact': '9840565613'},
+                    {'name': 'Thamizharasan.V.', 'contact': '9677957686'},
+                    {'name': 'HARSHAVARDHAN R', 'contact': '7868028025'},
+                    {'name': 'Santhosh kumar', 'contact': '9597055448'},
+                    {'name': 'MAGESH WARAN G', 'contact': '8825649710'},
+                    {'name': 'HARIKRISHNAN', 'contact': '9677514125'},
+                    {'name': 'Hemachandran', 'contact': '9962187184'},
+                    {'name': 'Prabhu Jothikumar', 'contact': '8870712375'},
+                    {'name': 'Dhinesh Udayakumar', 'contact': '6369258750'},
+                    {'name': 'magdoom gani', 'contact': '9840554748'},
+                    {'name': 'Sanjai', 'contact': '9626687817'},
+                    {'name': 'shamson', 'contact': '9894043007'},
+                ]
+            elif blood_type == 'O-':
+                donors = [
+                    {'name': 'E.yuvaraj', 'contact': '8072886202'},
+                    {'name': 'Jayakanthan', 'contact': '8838987748'},
+                    {'name': 'NITHYANANDAM H', 'contact': '8680800511'},
+                    {'name': 'Premnath', 'contact': '9003207019'},
+                    {'name': 'PRATHAP CHANDRAN.S', 'contact': '8056034139'},
+                    {'name': 'J. Shanmugasundaram', 'contact': '8144350635'},
+                    {'name': 'Yogaraj', 'contact': '9840108464'},
+                    {'name': 'Vamsi', 'contact': '9994449385'},
+                    {'name': 'vinoth', 'contact': '9444160705'},
+                    {'name': 'Karthigheyan vallikannan', 'contact': '9952070635'},
+                ]
+            elif blood_type == 'AB+':
+                donors = [
+                    {'name': 'Arulselvi', 'contact': '8695939481'},
+                    {'name': 'Habiburrahman', 'contact': '9884286022'},
+                    {'name': 'Ramu', 'contact': '9578340116'},
+                    {'name': 'hema priya', 'contact': '7845931872'},
+                    {'name': 'Veena A', 'contact': '9444521908'},
+                    {'name': 'K.M. RANGARAJAN', 'contact': '7010509800'},
+                    {'name': 'arunkumar', 'contact': '9790999099'},
+                    {'name': 'lokesh Kumar', 'contact': '8056678231'},
+                    {'name': 'K.Vetrivelu', 'contact': '9444467989'},
+                    {'name': 's.martina preethi', 'contact': '9962499666'},
+                    {'name': 'shefiq v s', 'contact': '6374686704'},
+                    {'name': 'Ragul.R', 'contact': '8940730188'},
+                    {'name': 'Sudhakaran', 'contact': '8939015492'},
+                    {'name': 'M.Suman', 'contact': '9789027010'},
+                    {'name': 'yogesh', 'contact': '9940589836'},
+                ]
+            elif blood_type == 'AB-':
+                donors = [
+                    {'name': 'Vijayakumar M', 'contact': '6381505068'},
+                ]
+                               
+            else:
+                donors = []  # Return an empty list for other blood types
+            return donors
+   if city == 'Poonamallee':
+            if blood_type == 'A+':
+                donors = [
+                    {'name': 'Vinoth kumar s', 'contact': '9551621920'},
+                    {'name': 'Dinesh R', 'contact': '9884463685'},
+                    {'name': 'shankar', 'contact': '9940404022'},
+                    {'name': 'Smitha jayakanthan', 'contact': '9841356445'},
+                    {'name': 'Vinoth Kumar Loganathan', 'contact': '9962072302'},
+                    {'name': 'Suresh', 'contact': '8870178880'},
+                    {'name': 'Gayathri chandra', 'contact': '8056233879'},
+                    {'name': 'Suresh Shanmugam', 'contact': '9840128884'},
+                    {'name': 'deepan', 'contact': '6374606300'},
+                    {'name': 'Harish', 'contact': '8939460911'},
+                    {'name': 'Aravind Swamy', 'contact': '9962180321'},
+                    {'name': 'y.haranadhareddy', 'contact': '9600086657'},
+                    {'name': 'AjazNoor', 'contact': '8608079984'},
+                    {'name': 'Mathivanan', 'contact': '7548884816'},
+                    {'name': 'prabhakaran', 'contact': '7871404555'},
+                    {'name': 'Paul Antony B', 'contact': '9150456193'},
+                    {'name': 'Illangovan K', 'contact': '9710404031'},
+                    {'name': 'Ariharan J', 'contact': '9444895481'},
+                    {'name': 'Gajapathy E', 'contact': '9841886455'},
+                    {'name': 'ThirumaValavan', 'contact': '966503417820'},
+                    {'name': 'Birundha D', 'contact': '9094290917'},
+                    {'name': 'Jothi. L', 'contact': '9840719563'},
+                    {'name': 'Jeni', 'contact': '9566387398'},
+                    {'name': 'Gayathri Chandra', 'contact': '8939344255'},
+                    {'name': 'Boopathi', 'contact': '9715553333'},
+                    {'name': 'HEMANTH VASU M', 'contact': '7094058056'},
+                    {'name': 'Thirunavukkarasu', 'contact': '8072255404'},
+                    {'name': 'JOSEPH A', 'contact': '9841605690'},
+                    {'name': 'A Ayyadurai', 'contact': '7200061233'},
+                    {'name': 'Mohanraj', 'contact': '8124893198'},
+                ]
+            elif blood_type == 'A-':
+                donors = [
+                    {'name': 'SUNDARAMOORTHY', 'contact': '8778868944'},
+                    {'name': 'Hariprasad', 'contact': '8939989982'},
+                ]
+            elif blood_type == 'B+':
+                donors = [
+                    {'name': 'NAVEEN', 'contact': '9840849373'},
+                    {'name': 'Dinesh', 'contact': '9790988224'},
+                    {'name': 'ramesh', 'contact': '9176834488'},
+                    {'name': 'sabari navajinth', 'contact': '9524845368'},
+                    {'name': 'Abisheak J', 'contact': '8778368956'},
+                    {'name': 'Deepan sundharabharathi', 'contact': '8667811674'},
+                    {'name': 'Tamilarasan', 'contact': '9994444688'},
+                    {'name': 'KishoreKumar VP', 'contact': '9566038899'},
+                    {'name': 'RAVIKIRAN.M', 'contact': '7708840368'},
+                    {'name': 'Aashmi', 'contact': '9840659018'},
+                    {'name': 'Dharani', 'contact': '8056135173'},
+                    {'name': 'kaliyappan p', 'contact': '7010771289'},
+                    {'name': 'Deepak u', 'contact': '9003022703'},
+                    {'name': 'Manjunatgan', 'contact': '9789555526'},
+                    {'name': 'sunil kumar', 'contact': '9940191947'},
+                    {'name': 'RA1611002010031', 'contact': '9884655331'},
+                    {'name': 'kabilan M', 'contact': '8939656921'},
+                    {'name': 'saravanan A', 'contact': '9444299217'},
+                    {'name': 'karthick', 'contact': '9941551982'},
+                    {'name': 'Sarathkumar', 'contact': '9500353224'},
+                    {'name': 'Uneshvanan', 'contact': '9994523164'},
+                    {'name': 'Dr. N. Hari Sharan', 'contact': '8098260204'},
+                    {'name': 'E NANDAKUAMR', 'contact': '9789872925'},
+                    {'name': 'Ramasamy Chidambaram', 'contact': '9840701609'},
+                    {'name': 'Jaiganesh', 'contact': '9884111241'},
+                    {'name': 'Ganesh', 'contact': '8524821068'},
+                    {'name': 'Rajesh', 'contact': '9841368426'},
+                    {'name': 'k.sudharsan', 'contact': '9940616908'},
+                    {'name': 'Sridhar', 'contact': '9840488359'},
+                    {'name': 'Murugan E', 'contact': '9840706199'},
+                ]
+            elif blood_type == 'B-':
+                donors = [
+                    {'name': 'BALAKRISHNAN', 'contact': '9443226707'},
+                    {'name': 'Shibu Nair', 'contact': '8754448743'},
+                    {'name': 'Jayakumar J', 'contact': '9600195565'},
+                    {'name': 'Praveen kumar.v', 'contact': '9962438255'},
+                    {'name': 'Richard', 'contact': '8939590940'},
+                    {'name': 'Indu prakash m', 'contact': '9488800880'},
+                    {'name': 'venkadakrishnan', 'contact': '8190983525'},
+                    {'name': 'Manikandan', 'contact': '9566222119'},
+                    {'name': 'Saravana Kumar', 'contact': '9176777374'},
+                    {'name': 'Kameshwaran', 'contact': '9884114101'},
+                    {'name': 'Inbanathan', 'contact': '9171578755'},
+                ]
+            elif blood_type == 'O+':
+                donors = [
+                    {'name': 'NAVEEN KUMAR A', 'contact': '9094810452'},
+                    {'name': 'R. Karthik', 'contact': '9940205521'},
+                    {'name': 'A.SANTHANAM', 'contact': '9789973174'},
+                    {'name': 'Deepa', 'contact': '9042439914'},
+                    {'name': 'R. Viswanathan', 'contact': '9884366917'},
+                    {'name': 'Alwin Rajesh', 'contact': '8056203598'},
+                    {'name': 'Rama Devi', 'contact': '7010500757'},
+                    {'name': 'Shriram.R', 'contact': '9941013071'},
+                    {'name': 'S.sasikumar', 'contact': '9176475201'},
+                    {'name': 'Senthil G', 'contact': '8754588106'},
+                    {'name': 'suresh kumar', 'contact': '9952739415'},
+                    {'name': 'jayakanthan', 'contact': '9597883774'},
+                    {'name': 'Nageswara Rao Allagadda', 'contact': '9940216051'},
+                    {'name': 'KODAMANCHILI NSSK ADITYA', 'contact': '8106660093'},
+                    {'name': 'J.durairaj', 'contact': '8610073996'},
+                    {'name': 'VIJAY', 'contact': '9003282404'},
+                    {'name': 'Mohan M', 'contact': '7010943562'},
+                    {'name': 'Mahendra varman', 'contact': '8939958800'},
+                    {'name': 'mogili yadav', 'contact': '9094446522'},
+                    {'name': 'Khishore', 'contact': '9710630290'},
+                    {'name': 'Ranjith J', 'contact': '9789673971'},
+                    {'name': 'Murli Manohar', 'contact': '9514376327'},
+                    {'name': 'SEDHUMADHAVAN J', 'contact': '9884874642'},
+                    {'name': 'Balaji Jagannathan', 'contact': '9444219133'},
+                    {'name': 'Senthi lNathan', 'contact': '9944397553'},
+                    {'name': 'Naveen kumar', 'contact': '9094810452'},
+                    {'name': 'venkatakrishnan', 'contact': '9443844060'},
+                    {'name': 'subash', 'contact': '7200775874'},
+                    {'name': 'Vijayakumar.R', 'contact': '9092981736'},
+                    {'name': 'L.Mahendran', 'contact': '9080851763'},
+                    {'name': 'R.Sankar', 'contact': '9940138646'},
+                    {'name': 'Abbass', 'contact': '8610611744'},
+                    {'name': 'Raji', 'contact': '8189884466'},
+                    {'name': 'Padmanaban A', 'contact': '9962347054'},
+                    {'name': 'Hariraj D', 'contact': '9003084060'},
+                    {'name': 'sundeep patnaik', 'contact': '9952986856'},
+                    {'name': 'S.P.Mahender', 'contact': '9344674252'},
+                    {'name': 'ARIVAZHAGAN', 'contact': '7708573146'},
+                    {'name': 'S YUVARAJ', 'contact': '9840223354'},
+                    {'name': 'Balasubramanian N.T.R', 'contact': '9444282572'},
+                    {'name': 'vijay kumar', 'contact': '9884687888'},
+                    {'name': 'giridharan', 'contact': '9500815493'},
+                    {'name': 'Ashok', 'contact': '9941109666'},
+                    {'name': 'Padmanaban A', 'contact': '9962347054'},
+                    {'name': 'Shaik Fareed', 'contact': '9884146016'},
+                    {'name': 'Selvam A', 'contact': '9894306068'},
+                    {'name': 'Lokesh Ns', 'contact': '9884972499'},
+                    {'name': 'UNNIKRISHNAN.P', 'contact': '9042774344'},
+                    {'name': 'V Rajeshwari', 'contact': '9962053151'},
+                    {'name': 'guru kesav', 'contact': '9940410966'},
+                    {'name': 'Ashok Kancharla', 'contact': '9080377407'},
+                    {'name': 'ANBU P', 'contact': '7358361099'},
+                    {'name': 'Bharath.S', 'contact': '7578840145'},
+                    {'name': 'Nandhakumar', 'contact': '9865077896'},
+                    {'name': 'Sridharan C', 'contact': '9840937283'},
+                    {'name': 'Tamilselvan A', 'contact': '8807821407'},
+                    {'name': 'Mohammed raasith', 'contact': '8072773858'},
+                    {'name': 'Narayanan Seenivasan', 'contact': '8939426614'},
+                    {'name': 'karthick arulmani', 'contact': '9845433232'},
+                    {'name': 'vinod', 'contact': '9994456353'},
+                ]
+            elif blood_type == 'O-':
+                donors = [
+                    {'name': 'Sambha Brothers', 'contact': '9994932626'},
+                    {'name': 'BALASUBRAMANIAN', 'contact': '9840967619'},
+                    {'name': 'Mathi Vanan', 'contact': '9042747712'},
+                    {'name': 'S.SIVAKOZHUNTHU', 'contact': '9940044022'},
+                    {'name': 'Daniel', 'contact': '9841146951'},
+                    {'name': 'G.Sathiya murthy', 'contact': '9841075584'},
+                    {'name': 'Nandakumar C', 'contact': '8056054949'},
+                    {'name': 'Dhilip poovai', 'contact': '8248338318'},
+                    {'name': 'G.Sathiya murthy', 'contact': '9841075584'},
+                    {'name': 'J.MUTHUKUMAR', 'contact': '9940296972'},
+                    {'name': 'Manoj murugan', 'contact': '9345369904'},
+                    {'name': 'Murali', 'contact': '9940680714'},
+                    {'name': 'KALAIVANAN', 'contact': '8754442920'},
+                    {'name': 'Nandakumar', 'contact': '9176554683'},
+                    {'name': 'karuna mani', 'contact': '8122768161'},
+                    {'name': 'GURUMOORTHY P', 'contact': '8939644912'},
+                    {'name': 'R.SUBBAIYA', 'contact': '9884411705'},
+                    {'name': 'Madhan Raju.M', 'contact': '9042666397'},
+                    {'name': 'mahendran crpf', 'contact': '9080644765'},
+                ]
+            elif blood_type == 'AB+':
+                donors = [
+                    {'name': 'abdulrahuman', 'contact': '7550055600'},
+                    {'name': 'C.Nareshkumar', 'contact': '9380590102'},
+                    {'name': 'Abdul rahuman', 'contact': '8939295923'},
+                    {'name': 'Vijay', 'contact': '9444518583'},
+                    {'name': 'M.Ramkumar', 'contact': '8056276830'},
+                    {'name': 'K.DHINAKARAN', 'contact': '9790760452'},
+                    {'name': 'Bharathi', 'contact': '9092411620'},
+                    {'name': 'G. Selvamuthukumaran', 'contact': '7305233876'},
+                    {'name': 'Akash G', 'contact': '9840221445'},
+                    {'name': 'kadhi', 'contact': '8870344249'},
+                    {'name': 'Ajithkumar', 'contact': '7550275188'},
+                ]
+            elif blood_type == 'AB-':
+                donors = [
+                    {'name': 'Krishnaprakash', 'contact': '9176563390'},
+                    {'name': 'Anbarasan', 'contact': '9940479367'},
+                    {'name': 'SIBY THOMAS', 'contact': '8848097882'},
+                    {'name': 'Gopu Arunachalam', 'contact': '8220968170'},
+                    {'name': 'Gribalan', 'contact': '9600322399'},
+            ]               
+            else:
+                donors = []  # Return an empty list for other blood types
+            return donors 
+
+    if city == 'Thiruttani':
+            if blood_type == 'A+':
+                donors = [
+                    {'name': 'Senthilkumar.j', 'contact': '8754366396'},
+                    {'name': 'mubha rock', 'contact': '9788391516'},
+                    {'name': 'M.Thanga raj', 'contact': '7639405235'},
+                    {'name': 'RAJA SEKAR', 'contact': '9566853327'},
+                    {'name': 'Basilpraveen', 'contact': '8248518972'},
+                    {'name': 'malikbasha', 'contact': '9843213441'},
+                    {'name': 'A Mohan', 'contact': '8883020488'},
+                    {'name': 'murali k', 'contact': '7639941684'},
+                    {'name': 'Prathap', 'contact': '7094750972'},
+                    {'name': 'Alaudeen', 'contact': '9677549103'},
+                    {'name': 'Sudheer ROYAL', 'contact': '9444499181'},
+                    {'name': 'KUMAR G', 'contact': '9159253502'},
+                    {'name': 'Prasath', 'contact': '9994416792'},
+                    {'name': 'AJITH KUMAR V', 'contact': '9159360108'},
+                    {'name': 'P. Dilli Kumar', 'contact': '6382766973'},
+                    {'name': 'Muthu kamatchi', 'contact': '8072718900'},
+                    {'name': 'ARUNKUMAR SADASHIVAM', 'contact': '9080705789'},
+                    {'name': 'Madhan Raj C', 'contact': '7339528293'},
+                    {'name': 'PRAVEEN KUMAR N', 'contact': '9042664409'},
+                    {'name': 'suresh', 'contact': '8248070716'},
+                    {'name': 'sureshbabu', 'contact': '9360408934'},
+                    {'name': 's.g.santhosh', 'contact': '8940069427'},
+                ]
+            elif blood_type == 'A-':
+                donors = [
+                    {'name': 'Srinivasan C R', 'contact': '9786176133'}
+                ]
+            elif blood_type == 'B+':
+                donors = [
+                    {'name': 'yogaraj B S', 'contact': '8124830108'},
+                    {'name': 'naresh', 'contact': '9884464446'},
+                    {'name': 'Praveen M', 'contact': '8754694109'},
+                    {'name': 'R.Siva 108 Pilot', 'contact': '9790622328'},
+                    {'name': 'Elumalai Raja', 'contact': '9025650523'},
+                    {'name': 'SENTHIL KUMAR', 'contact': '7845116144'},
+                    {'name': 'T.Saravanan', 'contact': '9047419970'},
+                    {'name': 'Tamilvanan', 'contact': '9380783700'},
+                    {'name': 'vivek', 'contact': '9843298289'},
+                    {'name': 'Ragul Gandhi M', 'contact': '9364642400'},
+                    {'name': 'thangamani', 'contact': '9698305018'},
+                    {'name': 'Lakshmanan', 'contact': '9789377815'},
+                    {'name': 'yuvaraj A', 'contact': '7825090603'},
+                    {'name': 'Indraniravi', 'contact': '7395935997'},
+                    {'name': 'Vasanth Kumar', 'contact': '9585996643'},
+                    {'name': 'KARTHIK M', 'contact': '6383476453'},
+                    {'name': '140', 'contact': '9025586622'},
+                    {'name': 'T N VADIVEL', 'contact': '9787448029'},
+                    {'name': 'varaprasad p', 'contact': '9994236850'},
+                    {'name': 'Vazhi Balaji Kumar Mudaliar', 'contact': '9025204540'},
+                    {'name': 'Hari Prasad C', 'contact': '7373940835'},
+                    {'name': 'SARAN RAJ P', 'contact': '8940608716'},
+                    {'name': 'jayachandran MK', 'contact': '9884431102'},
+                    {'name': 'Ankith', 'contact': '9841883422'},
+                    {'name': 'THAMIZHSELVAN E T', 'contact': '8056613672'},
+                    {'name': 'Sathiya moorthy', 'contact': '9043579317'},
+                    {'name': 'JOTHIRAM', 'contact': '9629302870'},
+                    {'name': 'Suresh S', 'contact': '9003013086'},
+                    {'name': 'Prakash Raj p', 'contact': '9025530104'},
+                    {'name': 'GNANAKUMAR V', 'contact': '7639846701'},
+                ]
+            elif blood_type == 'B-':
+                donors = [
+                    {'name': 'Suresh Kumar', 'contact': '9962008874'},
+                    {'name': 'B Dhanush', 'contact': '8270264874'},
+                    {'name': 'Thangaraj K M', 'contact': '7845671866'},
+                    {'name': 'Mukesh', 'contact': '7871198126'},
+                    {'name': 'Vinothkumar', 'contact': '9886189432'},
+                    {'name': 'Vivek.D', 'contact': '9962613411'},
+                    {'name': 'Suriya Prakash. M', 'contact': '8050119812'},
+                ]
+            elif blood_type == 'O+':
+                donors = [
+                    {'name': 'Prakash', 'contact': '8825815663'},
+                    {'name': 'N muralimohan yadav', 'contact': '9159392340'},
+                    {'name': 'C.Dhananjayan', 'contact': '8524088210'},
+                    {'name': 'm.gopi', 'contact': '9159898054'},
+                    {'name': 'Thiaghu B', 'contact': '9843534304'},
+                    {'name': 'Jagan', 'contact': '7904731393'},
+                    {'name': 'Jawahar', 'contact': '9843244688'},
+                    {'name': 'Babu Balaraman', 'contact': '9786335736'},
+                    {'name': 'SHANKAR G E', 'contact': '8682947762'},
+                    {'name': 'K.V.Bhargavan', 'contact': '9894625515'},
+                    {'name': 'Saravanan. M', 'contact': '7010021141'},
+                    {'name': 'Dr K LINGAPPAN', 'contact': '9003102979'},
+                    {'name': 'Konduru Bhaskar', 'contact': '9840368996'},
+                    {'name': 'Bala chandar', 'contact': '9047115203'},
+                    {'name': 'PURUSHOTTAMAN', 'contact': '9791571137'},
+                    {'name': 'Sivakumar Varma', 'contact': '9444510999'},
+                    {'name': 'BALAJI', 'contact': '9043378488'},
+                    {'name': 'Muralee sharma', 'contact': '9940800470'},
+                    {'name': 'Kiran Patiyamrameshbabu', 'contact': '9787409049'},
+                    {'name': 'VENKATESH P', 'contact': '9894801475'},
+                    {'name': 'Balaji', 'contact': '9894100092'},
+                    {'name': 'Nirmalkumar SESHACHALAM', 'contact': '9944123039'},
+                    {'name': 'Dhina S', 'contact': '8524832143'},
+                    {'name': 'Nizamuddin', 'contact': '8144518800'},
+                    {'name': 'siva', 'contact': '9452610614'},
+                    {'name': 'Sathish Kumar', 'contact': '9688322821'},
+                    {'name': 'DILIPKUMAR', 'contact': '8940437676'},
+                    {'name': 'JAGANNATHAN R', 'contact': '7200433451'},
+                    {'name': 'BALAJI.S', 'contact': '7708403393'},
+                ]      
+            elif blood_type == 'O-':
+                donors = [
+                    {'name': 'Nethajj', 'contact': '8778994155'},
+                    {'name': 'Bhoopathi.S.G', 'contact': '9840420260'},
+                    {'name': 'Sudhakaran', 'contact': '8760636679'},
+                    {'name': 'HARI K', 'contact': '9047666480'},
+                    {'name': 'D MURALI KRISHNAN', 'contact': '9751223629'},
+                    {'name': 'munivel', 'contact': '7558157291'},
+                    {'name': 'Karthick G', 'contact': '9159133763'},
+                    {'name': 'Neelakandan B', 'contact': '9092081189'},
+                    {'name': 'MURALI KRISHNAN', 'contact': '7904616795'},
+                    {'name': 'Mohan', 'contact': '7373406626'},
+                    {'name': 'Suresh.s', 'contact': '9361999971'},
+                    {'name': 'srinivasan', 'contact': '9894704407'},
+                    {'name': 'Karthikeyan R S', 'contact': '8526460037'},
+                    {'name': 'M.A.ARUN', 'contact': '7200464839'},
+                    {'name': 'N.V.Prabakaran', 'contact': '8608981196'},
+                    {'name': 'Amresh', 'contact': '9976440076'},
+                    {'name': 'Vandana Reddy', 'contact': '9884547467'},
+                    {'name': 'RAGHU.S', 'contact': '9750096685'},
+                
+                ]
+            elif blood_type == 'AB+':
+                donors = [
+                    {'name': 'T.P.Mani', 'contact': '9791962413'},
+                    {'name': 'kumaran', 'contact': '9786670177'},
+                    {'name': 'T.P.Mani', 'contact': '9791962413'},
+                    {'name': 'Magesh kumar', 'contact': '9994899096'},
+                    {'name': 'Hamath', 'contact': '9445661564'},
+                    {'name': 'Pachayammal', 'contact': '9787413178'},
+                    {'name': 'Hemakumar TM', 'contact': '9943335291'},
+                    {'name': 'Kishore.L', 'contact': '7540028957'},
+                    {'name': 'Charan', 'contact': '9944768113'},
+                    {'name': 'Arul Raj R', 'contact': '9677706117'},
+                    {'name': 'Azeem s b', 'contact': '9626161606'},
+                    {'name': 'Pari', 'contact': '9566198688'},
+                    {'name': 'VIGNESH J', 'contact': '9790974271'},
+                                ]
+            elif blood_type == 'AB-':
+                donors = [
+                    {'name': 's.gopi', 'contact': '8489237992'}
+                ]                
+            else:
+                donors = []  # Return an empty list for other blood types
+            return donors
+    if city == 'thiruvallur':
+            if blood_type == 'A+':
+                donors = [
+                    {'name': 'raj(rajakanthan)', 'contact': '9965665040'},
+                    {'name': 'ajay. s', 'contact': '8296465674'},
+                    {'name': 'M.ANBARASU', 'contact': '9965664757'},
+                    {'name': 'Sharmila Sharmi', 'contact': '9361011980'},
+                    {'name': 'Manikandan.R', 'contact': '8667426421'},
+                    {'name': 'D Manikandan', 'contact': '9677611235'},
+                    {'name': 'Yogesh Babu T V', 'contact': '7708423692'},
+                    {'name': 'Edwin', 'contact': '9626062862'},
+                    {'name': 'Vijay A', 'contact': '7708098380'},
+                    {'name': 'Goutham Narayanan', 'contact': '9092334790'},
+                    {'name': 'Praveen R', 'contact': '9940984241'},
+                    {'name': 'mallingarjunan m', 'contact': '7094160180'},
+                    {'name': 'K.HARIKRISHNAN', 'contact': '9444466411'},
+                    {'name': 'lokesh', 'contact': '9940503066'},
+                    {'name': 'shamla priya', 'contact': '7397326580'},
+                    {'name': 'Raj Kumar', 'contact': '8489444412'},
+                    {'name': 'Jagdish Sukumar', 'contact': '9052555321'},
+                    {'name': 'Dinesh R', 'contact': '9786946879'},
+                    {'name': 'Sandhiya', 'contact': '9840127445'},
+                    {'name': 'C.Madhan raj', 'contact': '8248048829'},
+                    {'name': 'Manigandan Mani', 'contact': '6369380417'},
+                    {'name': 'Dharshini munuswamy', 'contact': '8939712547'},
+                    {'name': 'Sathish kumar', 'contact': '9042444912'},
+                    {'name': 'Madhan', 'contact': '9710449666'},
+                    {'name': 'SANTHOSH KUMAR S', 'contact': '7094997853'},
+                    {'name': 'BALAJI K', 'contact': '9965556908'},
+                    {'name': 'PREMKUMAR', 'contact': '9884510866'},
+                    {'name': 'Praveen', 'contact': '9487864364'},
+                    {'name': 'Manigandan', 'contact': '8098729888'},
+                    {'name': 'david', 'contact': '9159197196'},
+
+                ]
+            elif blood_type == 'A-':
+                donors = [
+                    {'name': 'Amarnath', 'contact': '9500101094'},
+                    {'name': 'Manikandan', 'contact': '9941673589'},
+                    {'name': 'karthik R', 'contact': '7708775064'},
+                    {'name': 'Ramesh', 'contact': '9994123682'},
+                    {'name': 'Angapparaj', 'contact': '9543619821'},
+                ]
+                
+            elif blood_type == 'B+':
+                donors = [
+                    {'name': 'Parthiban', 'contact': '8526878434'},
+                    {'name': 'Deepakkumar', 'contact': '9677624660'},
+                    {'name': 'Dinesh Kumar R', 'contact': '7092554527'},
+                    {'name': 'Edwin', 'contact': '9940102964'},
+                    {'name': 'Dhanaraj', 'contact': '7550047455'},
+                    {'name': 'HERBERT J', 'contact': '9840622622'},
+                    {'name': 'umamaheswaran.s.g', 'contact': '9944130170'},
+                    {'name': 'K Mohan Prakash', 'contact': '9962558281'},
+                    {'name': 'Shanthosh', 'contact': '9500230266'},
+                    {'name': 'PRABU T', 'contact': '8825787643'},
+                    {'name': 'Rahul.C', 'contact': '9597226858'},
+                    {'name': 'Charles Jayakumar D', 'contact': '9841749410'},
+                    {'name': 'Sathish kumar S', 'contact': '9655861101'},
+                    {'name': 'Sathish Kumar s', 'contact': '9994747957'},
+                    {'name': 'M.Ramesh babu', 'contact': '9381051914'},
+                    {'name': 'Praveen kumar', 'contact': '9500863508'},
+                    {'name': 'ELIYAS', 'contact': '6382131305'},
+                    {'name': 'JoBala', 'contact': '9786705561'},
+                    {'name': 'Susendren', 'contact': '6374383338'},
+                    {'name': 'Ƭʀᴩ࿐ Vιcĸy ࿐', 'contact': '8220551253'},
+                    {'name': 'MANJU.U', 'contact': '7401440723'},
+                    {'name': 'N SURESH', 'contact': '9787369620'},
+                    {'name': 'A.SABARISH', 'contact': '9840530202'},
+                    {'name': 'madhan', 'contact': '7601088584'},
+                    {'name': 'Jeyaprakash', 'contact': '9965551765'},
+                    {'name': 'SHANMUGAM A', 'contact': '9840621516'},
+                    {'name': 'rajesh', 'contact': '9884837174'},
+                    {'name': 'Romnatic**AVINASH**(Tollgate)', 'contact': '9498552972'},
+                    {'name': 'Shankar.m', 'contact': '9943332852'},
+                    {'name': 'Maheswari babu', 'contact': '8072156705'},
+                ]
+
+            elif blood_type == 'B-':
+                donors = [
+                    {'name': 'C palani', 'contact': '7448713011'},
+                    {'name': 'mathiazhagan v', 'contact': '9500602151'},
+                    {'name': 'Vikneshvaran Thangavel', 'contact': '9790486063'},
+                    {'name': 'Manikandan', 'contact': '8903046914'},
+                    {'name': 'muni shankar g', 'contact': '9786054055'},
+                    {'name': 'BOLLAMPALLI venkataramana', 'contact': '9786098479'},
+                    {'name': 'Juvanita Michael', 'contact': '9003166209'},
+                    {'name': 'L Ashik', 'contact': '9952295741'},
+                    {'name': 'Vivek', 'contact': '8667441911'},
+                    {'name': 'K.Janardhanan', 'contact': '9940786030'},
+                    {'name': 'Shanmugapriyan R', 'contact': '9884152299'},
+                    {'name': 'JANAKIRAMAN BALAJI', 'contact': '8072192412'},
+                    {'name': 'Thameem ansari', 'contact': '8939170687'},
+                    {'name': 'J srinivasan', 'contact': '9786596112'},
+                    {'name': 'SARAVANAN', 'contact': '9843050480'},
+                    {'name': 'Manish.s', 'contact': '8525008254'},
+                    {'name': 'Abeeb', 'contact': '9940388476'},
+                    {'name': 'A.THAMEEM ANSARI', 'contact': '9043243982'},
+                    {'name': 'K.naresh', 'contact': '9791538363'},
+                                ]
+                            elif blood_type == 'O+':
+                                donors = [
+                                    {'name': 'sivakumar', 'contact': '9444554347'},
+                    {'name': 'ANANDAN L', 'contact': '7502152979'},
+                    {'name': 'Sanjana Sheethal', 'contact': '9585197440'},
+                    {'name': 'Kumar V', 'contact': '8754444371'},
+                    {'name': 'S.Sudhakae', 'contact': '8940648171'},
+                    {'name': 'surendar', 'contact': '8760708738'},
+                    {'name': 'Thangaraj', 'contact': '9003095257'},
+                    {'name': 'Hariprasad.A', 'contact': '8760781421'},
+                    {'name': 'tamilmani', 'contact': '9790170028'},
+                    {'name': 'RANJITH KUMAR', 'contact': '8760253177'},
+                    {'name': 'N. Parthiban', 'contact': '9003034859'},
+                    {'name': 'imran', 'contact': '8838345035'},
+                    {'name': 'Sai Chaitanya P', 'contact': '9566661026'},
+                    {'name': 'Munirathinam', 'contact': '8807590327'},
+                    {'name': 'senthil kumar', 'contact': '9790964696'},
+                    {'name': 'Vinoth', 'contact': '9500002600'},
+                    {'name': 'Mohit', 'contact': '7358247015'},
+                    {'name': 'Jaypaul', 'contact': '9884275586'},
+                    {'name': 'V Purushothaman', 'contact': '6385260692'},
+                    {'name': 'sivakumar', 'contact': '9444554347'},
+                    {'name': 'Dayapriyan A', 'contact': '7550352093'},
+                    {'name': 'J.M.Nethaji', 'contact': '9629012545'},
+                    {'name': 'Anish D', 'contact': '9962755117'},
+                    {'name': 'Jayaraj Madhan', 'contact': '9094282277'},
+                    {'name': 'Mosas', 'contact': '7373676426'},
+                    {'name': 'Rajkumar', 'contact': '9444443359'},
+                    {'name': 'Sai Kiran', 'contact': '9043250916'},
+                    {'name': 'Vinoth Kumar P', 'contact': '7094975043'},
+                    {'name': 'Gowtham kumar B', 'contact': '9894422695'},
+                    {'name': 'Anandsai R', 'contact': '9840662932'},
+                   
+    
+                ]      
+            elif blood_type == 'O-':
+                donors = [
+                    {'name': 'Dillibabu seman', 'contact': '9790301032'},
+                    {'name': 'Saravanan PG', 'contact': '9840795489'},
+                    {'name': 'Victor Ebinezer', 'contact': '9884533284'},
+                    {'name': 'Rajesh', 'contact': '9791563009'},
+                    {'name': 'sathish.g', 'contact': '9444135646'},
+                    {'name': 'Bharath', 'contact': '9094105805'},
+                    {'name': 'mani karuna', 'contact': '9514817098'},
+                    {'name': 'Naveen K', 'contact': '8608573534'},
+                    {'name': 'Ramya Ramakrishnan', 'contact': '9840648867'},
+                    {'name': 'K,Thiyagaraj', 'contact': '8939999474'},
+                    {'name': 'Micheal raj', 'contact': '8760799548'},
+                    {'name': 'MICHAEL', 'contact': '9841258501'},
+                    {'name': 'Vinoth Kumar G', 'contact': '9840999789'},
+                    {'name': 'Ramesh', 'contact': '9791339939'},
+                    {'name': 'Dhanasekar Natarajan', 'contact': '9841570710'},
+                    {'name': 'Saranya. N', 'contact': '8667672482'},
+                    {'name': 'Kiruthika', 'contact': '9361196111'},
+                    {'name': 'R Srivatsan', 'contact': '7550108883'},
+                    {'name': 'S Dileep', 'contact': '9629133515'},
+                    {'name': 'Manikandan L', 'contact': '9080590233'},
+                    {'name': 'Varun', 'contact': '9840243276'},
+                    {'name': 'Dhinakaran S', 'contact': '8248147709'},
+                    {'name': 'Ramesh', 'contact': '9150265604'},
+                ]
+            elif blood_type == 'AB+':
+                donors = [
+                    {'name': 'Prasanth', 'contact': '8012388961'},
+                    {'name': 'Selva', 'contact': '9790532260'},
+                    {'name': 'senthamilkumaran', 'contact': '9788482865'},
+                    {'name': 'Boopalan Parthiban', 'contact': '9791978737'},
+                    {'name': 'ezhil kumar', 'contact': '9790301772'},
+                    {'name': 'GT Abishek nath', 'contact': '9094480436'},
+                    {'name': 'Syed irshad', 'contact': '8525008728'},
+                    {'name': 'Puyalraj', 'contact': '8056618829'},
+                    {'name': 'R VINOTHKUMAR', 'contact': '8940152145'},
+                    {'name': 'STEVE WAUGH', 'contact': '9597882920'},
+                    {'name': 'Edward philip', 'contact': '7010475686'},
+                    {'name': 'g.navren raj', 'contact': '7358816196'},
+                    {'name': 'Bezeleel J', 'contact': '8056963301'},
+                    {'name': 'Vijay ragav S', 'contact': '8438109097'},
+                    {'name': 'manikandan', 'contact': '9943348170'},
+                    {'name': 'Ethiraj', 'contact': '9094268625'},
+                    {'name': 'Manivannan', 'contact': '7299966283'},
+                    {'name': 'Syed Irshath', 'contact': '8525008728'},
+                    {'name': 'K.Madhan', 'contact': '9787695346'},
+                    {'name': 'Sathish Kumar', 'contact': '8122703056'},
+                    {'name': 'E.CHANDRASEKAR', 'contact': '9500071288'},
+                    {'name': 'Praveen kumar', 'contact': '8610547282'},
+                    {'name': 'KARTHIKEYAN', 'contact': '9894196847'},
+                    {'name': 'JIMSON', 'contact': '9841401725'},
+                    {'name': 'Chinna', 'contact': '7871965918'},
+                    {'name': 'Thamim police', 'contact': '7373920123'},
+                    {'name': 'R.Selvakumar', 'contact': '9944183109'},
+                    {'name': 'Dillibabu v', 'contact': '7010900092'},
+                    {'name': 'Areesh', 'contact': '9884721013'},
+                ]
+            elif blood_type == 'AB-':
+                donors = [
+                    {'name': 'sindhu', 'contact': '9840956585'},
+                    {'name': 'SWAMINATHAN J', 'contact': '9840502336'},
+                    {'name': 'Manikandan', 'contact': '7871832414'},
+                    {'name': 'Mani kandan.B', 'contact': '6379612066'},
+                    {'name': 'Santhosh. M', 'contact': 'No'},
+                    {'name': 'saravanan k', 'contact': '8610360483'},
+                    {'name': 'san kum', 'contact': '7200338927'},
+                    {'name': 'S.elumalai', 'contact': '9655617923'},
+                ]                
+            else:
+                donors = []  # Return an empty list for other blood types
+            return donors    
+    if city == 'Thiruvottiyur'
+            if blood_type == 'A+':
+                donors = [
+                    {'name': 'sasi', 'contact': '9941013188'},
+                    {'name': 'Surya k', 'contact': '7299609913'},
+                    {'name': 'Kathirvel', 'contact': '9551315110'},
+                    {'name': 'sadhananthan', 'contact': '9841744544'},
+                    {'name': 'Balumahendra', 'contact': '9445276783'},
+                    {'name': 'Yonisha P', 'contact': '9789890319'},
+                    {'name': 'Hariharan', 'contact': '9841369494'},
+                    {'name': 'M.vigneshwaran', 'contact': '9789913433'},
+                    {'name': 'rajesh sharma', 'contact': '8838644614'},
+                    {'name': 'Veeraganesh', 'contact': '9444535454'},
+                    {'name': 'Prakash', 'contact': '9087429443'},
+                    {'name': 'Sakeer Babu K', 'contact': '9526774164'},
+                    {'name': 'Vijay vedha', 'contact': '7092878478'},
+                                ]
+                            elif blood_type == 'A-':
+                                donors = [
+                                {'name': 'B PRADEESH KUMAR', 'contact': '9444829576'},
+                    {'name': 'Mohammed siddiq hasain', 'contact': '9840784891'},
+                    {'name': 'kareem', 'contact': '9884312038'},
+                                ]
+                                
+                            elif blood_type == 'B+':
+                                donors = [
+                                {'name': 'a ilavarasu', 'contact': '9841671672'},
+                    {'name': 'Suman', 'contact': '9790945778'},
+                    {'name': 'Thiyagarajan', 'contact': '9940632260'},
+                    {'name': 'Balaji cs', 'contact': '9043056514'},
+                    {'name': 'Chella', 'contact': '7845889899'},
+                    {'name': 'Muthukumar', 'contact': '9740433440'},
+                    {'name': 'B. Hariprasath', 'contact': '9841495357'},
+                    {'name': 'manigandan sambandhan', 'contact': '9003131754'},
+                    {'name': 'rajasekaran v', 'contact': '9840404821'},
+                    {'name': 'Rangarajan', 'contact': '9841223988'},
+                    {'name': 'vijaykumar', 'contact': '9840976184'},
+                    {'name': 'selvaraj J', 'contact': '8122860010'},
+                    {'name': 'Arun kumar. N', 'contact': '9789853358'},
+                    {'name': 'msgopalakrishnan', 'contact': '9790795830'},
+                    {'name': 'udaya kumar', 'contact': '9952070425'},
+                    {'name': 'Vasu', 'contact': '9841950750'},
+                    {'name': 'Ganesh Mynampati', 'contact': '9940567841'},
+                    {'name': 'Ganesh kumar', 'contact': '9884189554'},
+                    {'name': 'vinotj', 'contact': '+919551886'},
+                    {'name': 'N.jayadheep', 'contact': '9884524138'},
+                    {'name': 'Dhilip kumar parameswaran', 'contact': '9884716344'},
+                    {'name': 'Vasanth Kumar', 'contact': '8939447692'},
+                    {'name': 'sathish', 'contact': '9092446544'},
+                    {'name': 'Saravana N D', 'contact': '9094691601'},
+                    {'name': 'Rangarajan', 'contact': '9176085125'},
+                    {'name': 'ashokumar', 'contact': '9698911767'},
+                    {'name': 'karthikeyan', 'contact': '9840494979'},
+                    {'name': 'Rangarajan', 'contact': '9790994538'},
+                    {'name': 'sundar', 'contact': '9940157957'},
+                    {'name': 'KANCHANA', 'contact': '9884303391'},
+                ]
+
+            elif blood_type == 'B-':
+                donors = [
+                    {'name': 'Lakshmanan', 'contact': '9952248266'},
+                    {'name': 'Suresh kumar', 'contact': '8610904872'},
+                    {'name': 'J.S.Santhakumar', 'contact': '8681032037'},
+                    {'name': 'Surya Prakash Narayan Jha', 'contact': '8144285249'},
+                ]
+            elif blood_type == 'O+':
+                donors = [
+                    {'name': 'Jayanthi G', 'contact': '9940159755'},
+                    {'name': 'vishnu prasad', 'contact': '7358410920'},
+                    {'name': 'M. Shaheena Begum', 'contact': '7010274188'},
+                    {'name': 'Suresh Babu M', 'contact': '9444205309'},
+                    {'name': 'Manoj Kumar.S', 'contact': '8148525013'},
+                    {'name': 'Parthiban', 'contact': '9884649827'},
+                    {'name': 'kotteeswari.R', 'contact': '9445453374'},
+                    {'name': 'suresh kumar s', 'contact': '9940083666'},
+                    {'name': 'madhan mohan', 'contact': '8838190270'},
+                    {'name': 'kesavamoorthy', 'contact': '9941222343'},
+                    {'name': 'JAGANNATHAN', 'contact': '9444493103'},
+                    {'name': 'A.PADMANATHAN', 'contact': '9444823821'},
+                    {'name': 'PARTHASARATHY C', 'contact': '9962223216'},
+                    {'name': 'Suresh kumar', 'contact': '9962646434'},
+                    {'name': 'Ajith Jayasankar A', 'contact': '9840144376'},
+                    {'name': 'karthick', 'contact': '7904385687'},
+                    {'name': 'P.NAGARAJAN', 'contact': '9941093065'},
+                    {'name': 'mathan', 'contact': '9841140890'},
+                    {'name': 'Premkumar R', 'contact': '9840914745'},
+                    {'name': 'Karthikeyan', 'contact': '9940314925'},
+                    {'name': 'Hariprasath', 'contact': '9176233043'},
+                    {'name': 'Dhivagarraj A', 'contact': '9003468535'},
+                    {'name': 'madhan mohan', 'contact': '8838190270'},
+                    {'name': 'celin', 'contact': '9840329713'},
+                    {'name': 'R.NATRAMIL SELVAM', 'contact': '9840723364'},
+                    {'name': 'Premkumar R', 'contact': '9840914745'},
+                    {'name': 'R santhosh', 'contact': '9566040819'},
+                    {'name': 'Kaarthik', 'contact': '9710764716'},
+                    {'name': 'M.GOPI', 'contact': '9551611301'},
+                    {'name': 'Vishnu Chakaraborthy TR', 'contact': '9003282399'},
+                   
+    
+                ]      
+            elif blood_type == 'O-':
+                donors = [
+                    {'name': 'akesh', 'contact': '9884339958'},
+                    {'name': 'rajethsoman', 'contact': '9840922029'},
+                    {'name': 'karthick raj', 'contact': '9020562982'},
+                    {'name': 'ManiKandan', 'contact': '9940232625'},
+                ]
+            elif blood_type == 'AB+':
+                donors = [
+                {'name': 'Praveen JC', 'contact': '9941490379'},
+                {'name': 'ARAVINDAAN U S', 'contact': '7397488420'},
+                {'name': 'Akash Swaminathan A', 'contact': '7358726671'},
+                {'name': 'Vinothkumar', 'contact': '9566108837'},
+                {'name': 'ARUN IGNATIOUS', 'contact': '9841503167'},
+                {'name': 'YUVARAJ ROBAN S', 'contact': '9940183639'},
+                ]
+            elif blood_type == 'AB-':
+                donors = [
+                    {"No records found"},
+                ]                
+            else:
+                donors = []  # Return an empty list for other blood types
+            return donors    
+    if city == 'Villivakkam':
+            if blood_type == 'A+':
+                donors = [
+                    {'name': 'Sriram', 'contact': '9940591509'},
+                    {'name': 'Deepak Williams', 'contact': '9884225228'},
+                    {'name': 'krishnamoorthy s', 'contact': '9841573459'},
+                    {'name': 'bala kumar', 'contact': '9566157790'},
+                    {'name': 'ILAYA PERUMAL S', 'contact': '9345633140'},
+                    {'name': 'Mani Kandan', 'contact': '9677051080'},
+                    {'name': 'Hemalatha', 'contact': '9791092715'},
+
+                ]
+            elif blood_type == 'A-':
+                donors = [
+                    {"No records found"},
+                ]
+                
+            elif blood_type == 'B+':
+                donors = [
+                    {'name': 'Shanmukha Appajosyula', 'contact': '7993321619'},
+                    {'name': 'chidhambarathanu', 'contact': '9884718356'},
+                    {'name': 'Manoj Kumar', 'contact': '7401373644'},
+                    {'name': 'Muthukumar N', 'contact': '9886068081'},
+                    {'name': 'SAPTHAGIRI RAJ M', 'contact': '9994390952'},
+                    {'name': 'Pradeep kumar', 'contact': '9003010673'},
+                    {'name': 'Raju J', 'contact': '9841041087'},
+                    {'name': 'baskaran', 'contact': '8939960992'},
+                    {'name': 'Salim Malik', 'contact': '9840750405'},
+                    {'name': 'Swamnathan', 'contact': '9789061996'},
+                    {'name': 'sundararajan', 'contact': '9884257089'},
+                    {'name': 'Pondy Selvam.V', 'contact': '9789990696'},
+                    {'name': 'Tamilselvam SR', 'contact': '9003293124'},
+                    {'name': 'Sundarraj', 'contact': '9444148989'},
+                    {'name': 'Syed nazeer', 'contact': '9840133105'},
+                    {'name': 'YUVARAJ', 'contact': '8667739434'},
+                    {'name': 'shyam', 'contact': '8190885403'},
+                    {'name': 'manoj kumar', 'contact': '7418358543'},
+                    {'name': 'Kumar s', 'contact': '8680994886'},
+                    {'name': 'K.Ilamaran', 'contact': '9840999271'},
+                    {'name': 'MANAVAL GIRIDHAR', 'contact': '9841108040'},
+                    {'name': 'surrya prakash', 'contact': '9444307504'},
+                    {'name': 'T V KOVARTHAN', 'contact': '9600091113'},
+                    {'name': 'baskaran', 'contact': '8939960992'},
+                    {'name': 'Jude', 'contact': '9962020304'},
+                    {'name': 'ganesh', 'contact': '9524758373'},
+                    {'name': 'Amirthraj', 'contact': '9962994262'},
+                ]
+
+            elif blood_type == 'B-':
+                donors = [
+                   {'name': 'A. Palaniappan', 'contact': '9710414996'},
+                ]
+            elif blood_type == 'O+':
+                donors = [
+                    {'name': 'prabhu', 'contact': '9941212124'},
+                    {'name': 'Robertkennedy', 'contact': '9444171631'},
+                    {'name': 'AJITH', 'contact': '9884731778'},
+                    {'name': 'balaji', 'contact': '9962381803'},
+                    {'name': 'Jaishankar Soleti', 'contact': '9840327327'},
+                    {'name': 'P.R.srinivasa Raghavan', 'contact': '9789949760'},
+                    {'name': 'S Venkatesan', 'contact': '9003072275'},
+                    {'name': 'Narendiran.L', 'contact': '9884650350'},
+                    {'name': 'abdul rahman', 'contact': '9840241429'},
+                    {'name': 'Sudharshan', 'contact': '9444386410'},
+                    {'name': 'Srinivasan', 'contact': '7358235144'},
+                    {'name': 'Magesh', 'contact': '9841400783'},
+                    {'name': 'T.S. Rajasekar', 'contact': '9940214155'},
+                    {'name': 'Jeeva Bharathi', 'contact': '9444243656'},
+                    {'name': 'R.Muthu Kumaran', 'contact': '8681899207'},
+                    {'name': 'Michael', 'contact': '9940262037'},
+                    {'name': 'Suganya Athi', 'contact': '9791158308'},
+                    {'name': 'shanmuga sundaram c', 'contact': '9840391826'},
+                    {'name': 'Karthick Billa', 'contact': '8667665769'},
+                    {'name': 'vijaya Ganesh', 'contact': '9884404410'},
+                    {'name': 'Ilavarasu', 'contact': '9789850070'},
+                    {'name': 'pavin balaji', 'contact': '8072148168'},
+                    {'name': 'a j vigneshvar', 'contact': '9884491026'},
+                    {'name': 'RaviKumar DMC', 'contact': '9940594694'},
+                    {'name': 'SRINIVASAN K', 'contact': '9444067944'},
+                    {'name': 'Deepak', 'contact': '9884999167'},
+                    {'name': 'Subramani.S', 'contact': '9444530433'},
+                    {'name': 'Sundarapandiyaraja', 'contact': '9283137310'},
+                    {'name': 'SRINIVASAN.K', 'contact': '9444067944'},
+                    {'name': 'L.Mohana Sundaram', 'contact': '9841381252'},
+   
+                   
+    
+                ]      
+            elif blood_type == 'O-':
+                donors = [
+                    {"No records found"},
+                ]
+            elif blood_type == 'AB+':
+                donors = [
+                    {'name': 'C Venkat', 'contact': '9176637895'},
+                    {'name': 'Kishore balu', 'contact': '6380767049'},
+                ]
+            elif blood_type == 'AB-':
+                donors = [
+                   {'name': 'Pradeep', 'contact': '8122698748'},
+                ]                
+            else:
+                donors = []  # Return an empty list for other blood types
+            return donors    
+    
